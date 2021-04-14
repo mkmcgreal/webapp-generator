@@ -1,0 +1,3 @@
+[submodule "generator-webapp-template/generators/app/templates/web-app-template"]
+	path = generator-webapp-template/generators/app/templates/web-app-template
+	url = https://github.com/mkmcgreal/webapp-template.git
